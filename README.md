@@ -48,7 +48,7 @@ Players control the main character to overcome challenges, defeat enemies, colle
 #### Steps to Run the Project
 1. Clone the repository:
    ```
-   git clone https://github.com/HUYCH0U/SGU_C-_PRJ_Captain-s_Jack.git
+   git clone https://github.com/HUYCH0U/SGU_PRJ_Captain-s_Jack.git
    ```
 2. Open Unity Hub, add the project from the cloned folder.
 3. Open the project in Unity Editor.
