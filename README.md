@@ -7,6 +7,10 @@ The game draws inspiration from:
 
 Players control the main character to overcome challenges, defeat enemies, collect items, and upgrade stats to defeat the final boss in Chapter 3. The game features simple gameplay and a user-friendly interface, suitable for casual players.
 
+Gameplay Demo
+Watch the gameplay demo on YouTube to see the game in action:
+https://img.youtube.com/vi/9UemOnuVNHk/0.jpg
+
 ### Key Features
 #### Gameplay
 - Overcome obstacles, defeat enemies, and collect special items to progress through levels.
