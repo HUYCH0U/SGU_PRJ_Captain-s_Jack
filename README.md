@@ -9,7 +9,7 @@ Players control the main character to overcome challenges, defeat enemies, colle
 
 Gameplay Demo
 Watch the gameplay demo on YouTube to see the game in action:
-https://img.youtube.com/vi/9UemOnuVNHk/0.jpg
+https://www.youtube.com/watch?v=9UemOnuVNHk
 
 ### Key Features
 #### Gameplay
